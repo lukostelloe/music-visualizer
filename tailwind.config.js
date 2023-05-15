@@ -10,6 +10,13 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    colors: {
+      "gpt-message-box-gray": "#40414F",
+      "gpt-sidebar-dark-gray": "#202123",
+      "gpt-AI-message-area-gray": "#444655",
+      "gpt-USER-message-area-gray": "#343640",
+      "gpt-info-text-gray": "#c5c5d2",
+    },
     fontFamily: {
       sans: ["Helvetica", "Clear Sans", "sans-serif"],
       serif: ["ui-serif", "Georgia"],
